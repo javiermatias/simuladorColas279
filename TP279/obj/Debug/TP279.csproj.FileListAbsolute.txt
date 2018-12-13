@@ -1,0 +1,9 @@
+c:\users\matyas\documents\visual studio 2015\Projects\TP279\bin\Debug\TP279.exe.config
+c:\users\matyas\documents\visual studio 2015\Projects\TP279\bin\Debug\TP279.exe
+c:\users\matyas\documents\visual studio 2015\Projects\TP279\bin\Debug\TP279.pdb
+c:\users\matyas\documents\visual studio 2015\Projects\TP279\obj\Debug\TP279.csprojResolveAssemblyReference.cache
+c:\users\matyas\documents\visual studio 2015\Projects\TP279\obj\Debug\TP279.Form1.resources
+c:\users\matyas\documents\visual studio 2015\Projects\TP279\obj\Debug\TP279.Properties.Resources.resources
+c:\users\matyas\documents\visual studio 2015\Projects\TP279\obj\Debug\TP279.csproj.GenerateResource.Cache
+c:\users\matyas\documents\visual studio 2015\Projects\TP279\obj\Debug\TP279.exe
+c:\users\matyas\documents\visual studio 2015\Projects\TP279\obj\Debug\TP279.pdb
